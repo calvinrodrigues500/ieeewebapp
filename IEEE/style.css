@@ -1,0 +1,90 @@
+.nav_color{
+  background-color:#0072a6;
+}
+.cont_height{
+  height:1200px;
+}
+.head_row{
+  background-color:#0072a6;
+  padding-left:10px;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  font-family:'Work Sans', sans-serif;
+}
+.brand_img{
+   width:120px;
+   heigth:100px;
+}
+.head_row_pad{
+  padding-top:40px;
+}
+.main_head{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size:45px;
+  color:#FFFFFF;
+}
+.row_1{
+  font-family: 'Quicksand', sans-serif;
+  padding-bottom:20px;
+}
+.sub_head{
+  padding-top:60px;
+  padding-left: 20px;
+  font-size:17px;
+}
+.inner_heads{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size:30px;
+}
+.rit_col_pad{
+  padding-top:20px;
+  padding-left:60px
+}
+.img_logo{
+  width:80%;
+  height:100%;
+}
+.hr_style{
+  background-color:#0072a6;
+  width:85%;
+  height:3px;
+  opacity:0.8;
+  border-radius:8px;
+}
+.row_pad{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.left_col_pad{
+  padding-top:20px;
+  padding-left:20px;
+  padding-bottom:20px;
+}
+.para{
+  font-family: 'Quicksand', sans-serif;
+  font-size:17px;
+}
+.footer{
+  background-color:#000000;
+  height:350px;
+  color:#FFFFFF;
+  padding:25px;
+}
+.author{
+  background-color:#000000;
+  text-align:center;
+  padding:2px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size:8px;
+  color:#C0C0C0;
+}
+.row_pad1{
+  padding:20px;
+}
+.footer_head{
+  font-family: 'Work Sans', sans-serif;
+  font-size:26px;
+}
+.footer_content{
+  font-family: 'Raleway', sans-serif;
+}
